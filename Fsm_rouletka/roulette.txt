@@ -1,0 +1,6 @@
+Машина выдала : 63
+Пользователь ввел : 40
+Ответ : false
+Mashine send : 63
+User input : 40
+Answer : false
